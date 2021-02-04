@@ -1,4 +1,8 @@
+<!--
 ### Hi there 👋
+-->
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### My name is Muhammad Faizan and I am a AI Developer. I'm from Karachi, Pakistan and currently working in a tech startup named "AlphaTron Technologies".
 
 <!--
 **qfaizan401/qfaizan401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
