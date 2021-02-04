@@ -3,7 +3,7 @@
 -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### My name is Muhammad Faizan and I am a AI Developer. I'm from Karachi, Pakistan and currently working in a tech startup named "AlphaTron Technologies".
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfaizan401)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qfaizan401&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
