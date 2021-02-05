@@ -1,6 +1,7 @@
 <!--
 ### Hi there 👋
 -->
+![python cover img](resources/python-4785225.jpg)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align='center'>My name is Muhammad Faizan and I am a Pythoneer. I'm from Karachi, Pakistan and currently working in a tech startup named "AlphaTron Technologies".</h3>
 
