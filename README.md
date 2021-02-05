@@ -2,7 +2,14 @@
 ### Hi there 👋
 -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### My name is Muhammad Faizan and I am a AI Developer. I'm from Karachi, Pakistan and currently working in a tech startup named "AlphaTron Technologies".
+<h3 align='center'>My name is Muhammad Faizan and I am a Pythoneer. I'm from Karachi, Pakistan and currently working in a tech startup named "AlphaTron Technologies".</h3>
+
+#### 🛠️ Tools and Technologies
+----
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/keras.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qfaizan401&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
