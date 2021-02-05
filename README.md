@@ -3,7 +3,7 @@
 -->
 ![python cover img](resources/python-4785225.jpg)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h3 align='center'>My name is Muhammad Faizan and I am a Pythoneer. I try to innovative things with Python. I'm currently working in an AI Team as "ML Developer" in a tech startup named "AlphaTron Technologies". I'm from Karachi, Pakistan.</h3>
+<h3 align='center'>My name is Muhammad Faizan and I am a Pythoneer. I try to innovative things with Python <img height="20" width="20" src="resources/giphy.gif">. I'm currently working in an AI Team as "ML Developer" in a tech startup named "AlphaTron Technologies". I'm from Karachi, Pakistan.</h3>
 
 #### 🛠️ Tools and Technologies
 ----
