@@ -7,9 +7,9 @@
 
 #### 🛠️ Tools and Technologies
 ----
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/keras.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" />
+<p align="center">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/keras.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" />
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qfaizan401&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
