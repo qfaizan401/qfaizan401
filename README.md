@@ -12,7 +12,7 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qfaizan401&theme=radical&hide=html,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qfaizan401&theme=radical&hide=html,shell,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
