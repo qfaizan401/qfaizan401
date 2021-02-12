@@ -8,7 +8,7 @@
 #### 🛠️ Tools and Technologies
 ----
 <p align="center">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/keras.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/anaconda.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/jupyter.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/pycharm.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gitlfs.svg" /> <img height="32" width="32" src="resources/visualstudiocode.svg" />
+  <img height="32" width="32" src="resources/tensorflow.svg" /> <img height="32" width="32" src="resources/keras.svg" /> <img height="32" width="32" src="resources/python.svg" /> <img height="32" width="32" src="resources/anaconda.svg" /> <img height="32" width="32" src="resources/jupyter.svg" /> <img height="32" width="32" src="resources/pycharm.svg" /> <img height="32" width="32" src="resources/git.svg" /> <img height="32" width="32" src="resources/github.svg" /> <img height="32" width="32" src="resources/gitlfs.svg" /> <img height="32" width="32" src="resources/visualstudiocode.svg" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
