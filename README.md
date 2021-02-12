@@ -5,6 +5,19 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align='center'>My name is Muhammad Faizan and I am a Pythoneer <img height="20" width="20" src="resources/giphy.gif">. I try to innovative things with Python 🏳️. I'm currently working in an AI Team as "ML Developer" 👨‍💻 in a tech startup named "AlphaTron Technologies". I'm from Karachi, Pakistan <img height="25" width="25" src="resources/pakistan.png">.</h3>
 
+<div>
+  <p align='center'>
+    <img src="https://badges.pufler.dev/years/qfaizan401" align="center"> <img src='https://badges.pufler.dev/repos/qfaizan401' align='center'>
+    <img src='https://badges.pufler.dev/commits/monthly/qfaizan401' align='center'>
+  </p>
+</div>
+<!--
+[![Years Badge](https://badges.pufler.dev/years/qfaizan401)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/qfaizan401)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/qfaizan401)](https://badges.pufler.dev)
+-->
+  
+
 #### 🛠️ Tools and Technologies
 ----
 <p align="center">
