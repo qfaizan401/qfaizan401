@@ -25,9 +25,9 @@
 </p>
 
 <div>
-  <p>
-    <img align="left" src='https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true&theme=radical&hide_border=True'>
-  </p>
+    <p>
+      <img align="left" src='https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true&theme=radical&hide_border=True'>
+    </p>
 </div>
 
 <div>
