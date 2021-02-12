@@ -24,8 +24,22 @@
   <img height="32" width="32" src="resources/python.svg" /> <img height="32" width="32" src="resources/tensorflow.svg" /> <img height="32" width="32" src="resources/keras.svg" /> <img height="32" width="32" src="resources/anaconda.svg" /> <img height="32" width="32" src="resources/jupyter.svg" /> <img height="32" width="32" src="resources/pycharm.svg" /> <img height="32" width="32" src="resources/visualstudiocode.svg" /> <img height="32" width="32" src="resources/git.svg" /> <img height="32" width="32" src="resources/github.svg" /> <img height="32" width="32" src="resources/gitlfs.svg" />
 </p>
 
+<div>
+  <p>
+    <img align="left" src='https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true&theme=radical&hide_border=True'>
+  </p>
+</div>
+
+<div>
+  <p>
+    <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=qfaizan401&theme=radical&hide=html,shell&hide_border=True'>
+  </p>
+</div>
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true&theme=radical&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qfaizan401&theme=radical&hide=html,shell&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
