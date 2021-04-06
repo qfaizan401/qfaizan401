@@ -3,7 +3,7 @@
 -->
 ![python cover img](resources/python-4785225.jpg)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h3 align='center'>My name is Muhammad Faizan and I am a Pythoneer <img height="20" width="20" src="resources/giphy.gif">. I try to innovate things with Python 🏳️. I'm currently working in an AI Team as "ML Developer" 👨‍💻 in a tech startup named "AlphaTron Technologies". I'm from Karachi, Pakistan <img height="25" width="25" src="resources/pakistan.png">.</h3>
+<h3 align='center'>My name is Muhammad Faizan and I am a Pythoneer <img height="20" width="20" src="resources/giphy.gif">. I try to innovate things with Python 🏳️. I'm the founding member of a tech startup named "ONE.ai" 👨‍💻. Currently I am puring the role of "Machine Learning(ML) Developer" at "ONE.ai". I'm from Karachi, Pakistan <img height="25" width="25" src="resources/pakistan.png">.</h3>
 
 <div>
   <p align='center'>
@@ -23,7 +23,7 @@
 <p align="center">
   <img height="32" width="32" src="resources/python.svg" /> <img height="32" width="32" src="resources/tensorflow.svg" /> <img height="32" width="32" src="resources/keras.svg" /> <img height="32" width="32" src="resources/anaconda.svg" /> <img height="32" width="32" src="resources/jupyter.svg" /> <img height="32" width="32" src="resources/pycharm.svg" /> <img height="32" width="32" src="resources/visualstudiocode.svg" /> <img height="32" width="32" src="resources/git.svg" /> <img height="32" width="32" src="resources/github.svg" /> <img height="32" width="32" src="resources/gitlfs.svg" />
 </p>
-----
+
 <div>
     <p>
       <img align="left" src='https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true&theme=radical&hide_border=True'>
