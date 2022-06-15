@@ -1,6 +1,7 @@
 <!--
+<!--
 ### Hi there 👋
--->
+
 ![python cover img](resources/python-4785225.jpg)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align='center'>My name is Muhammad Faizan and I am a Pythoneer <img height="20" width="20" src="resources/giphy.gif">. I try to innovate things with Python 🏳️. I'm the founding member of a tech startup named "ONE.ai" 👨‍💻. Currently I am puring the role of "Machine Learning(ML) Developer" at "ONE.ai". I'm from Karachi, Pakistan <img height="25" width="25" src="resources/pakistan.png">.</h3>
@@ -17,7 +18,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/qfaizan401)](https://badges.pufler.dev)
 -->
   
-
+<!--
 #### 🛠️ Tools and Technologies
 ----
 <p align="center">
@@ -35,7 +36,7 @@
     <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=qfaizan401&theme=radical&hide=html,shell&hide_border=True'>
   </p>
 </div>
-
+-->
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfaizan401&show_icons=true&theme=radical&hide_border=True)](https://github.com/anuraghazra/github-readme-stats) | XYZ
 ------------ | -------------
@@ -61,4 +62,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+-->
 -->
